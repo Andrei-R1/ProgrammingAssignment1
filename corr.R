@@ -23,3 +23,4 @@ length(cr)
 cr <- corr("specdata")
 summary(cr)
 length(cr)
+
